@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fortheron
-- 👀 I’m interested in learing Javascript and a few other languages and technologies.
+- 👀 I’m interested in learing as much as I can.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
 
 <!---
